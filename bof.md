@@ -47,3 +47,12 @@
 - readelf
 - ldd
 - gdb
+
+### Machines:
+
+Boxes on HTB to practice BOF on:
+
+- Calamity
+- Enterprise
+- Jail
+- October
